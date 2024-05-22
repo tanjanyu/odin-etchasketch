@@ -1,0 +1,15 @@
+body {
+    margin: 0px;
+}
+
+.rows {
+    display: flex;
+}
+
+.row-element {
+    flex: 0 0 auto;
+    background-color: black;
+
+    /* Make it easier to look at the squares */
+    /* border: 0.5px solid red; */
+}
