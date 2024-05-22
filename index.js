@@ -14,8 +14,10 @@ function makeGrid(numberOfRows) {
     }
 }
 
-function 
+function makeColour(e) {
+    
+}
 
 // Probably going to want to use the unhover event
 
-makeGrid(16);
+makeGrid(30);
